@@ -1,5 +1,5 @@
 # Ozwah
-Its and Old Landing Page Created in (2017).
+Its a Landing Page Created in (2017).
 
 ## Technologies Used:
 
